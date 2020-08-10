@@ -8,7 +8,7 @@
 
 <br>
 
-### 1. 크롤링
+## 1. 크롤링
 
 <img src="https://user-images.githubusercontent.com/61648914/89790421-e1ccf000-db5c-11ea-8943-68b0f4e8f397.png" width="60%" height="20%" title="px(픽셀) 크기 설정">
 
@@ -22,7 +22,7 @@
 <br>
 <br>
 
-### 2. 생존분석
+## 2. 생존분석
 
 <img src="https://user-images.githubusercontent.com/61648914/89791500-61a78a00-db5e-11ea-99bd-b6270e850cac.png" width="40%" height="20%" title="px(픽셀) 크기 설정">
 
