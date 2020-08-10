@@ -17,3 +17,17 @@
 1. 웹 크롤링의 이해
 2. rvest 패키지를 활용한 크롤링
 3. R에서의 Selenium 
+
+<br>
+<br>
+<br>
+
+### 2. 생존분석
+
+<img src="https://user-images.githubusercontent.com/61648914/89790421-e1ccf000-db5c-11ea-8943-68b0f4e8f397.png" width="60%" height="20%" title="px(픽셀) 크기 설정">
+
+#### :memo: 내용
+
+1. 웹 크롤링의 이해
+2. rvest 패키지를 활용한 크롤링
+3. R에서의 Selenium 
