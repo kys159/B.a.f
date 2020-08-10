@@ -24,7 +24,7 @@
 
 ## 2. 생존분석
 
-<img src="https://user-images.githubusercontent.com/61648914/89791500-61a78a00-db5e-11ea-99bd-b6270e850cac.png" width="50%" height="30%" title="px(픽셀) 크기 설정"> <img src="https://user-images.githubusercontent.com/61648914/89791672-91ef2880-db5e-11ea-9e9b-fdf5b4eec489.png" width="50%" height="30%" title="px(픽셀) 크기 설정">
+<img src="https://user-images.githubusercontent.com/61648914/89791500-61a78a00-db5e-11ea-99bd-b6270e850cac.png" width="50%" height="30%" title="px(픽셀) 크기 설정"><img src="https://user-images.githubusercontent.com/61648914/89791672-91ef2880-db5e-11ea-9e9b-fdf5b4eec489.png" width="50%" height="30%" title="px(픽셀) 크기 설정">
 
 #### :memo: 내용
 
