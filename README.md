@@ -28,11 +28,10 @@
 <img src="https://user-images.githubusercontent.com/61648914/89791500-61a78a00-db5e-11ea-99bd-b6270e850cac.png" width="50%" height="30%" title="px(픽셀) 크기 설정"><img src="https://user-images.githubusercontent.com/61648914/89791672-91ef2880-db5e-11ea-9e9b-fdf5b4eec489.png" width="50%" height="30%" title="px(픽셀) 크기 설정">
 
 ### :memo: 내용
-> ###### 전반적인 생존분석의 이론을 다루는 세 생존함수 도출의 증명과정은 생략한다.
+> ###### 전반적인 생존분석의 이론을 다루는 세션. 생존함수 도출의 증명과정은 생략한다. R을 활용하여 적용한다.
 
 1. 생존분석소개
 2. 여러가지 생존함수 및 중도절단
 3. Cox 비례위험모형
 4. 모형의 잔차
 
-  그 외 R을 활용한 생존분석 실습
